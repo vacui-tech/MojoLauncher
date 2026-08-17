@@ -80,7 +80,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "git.artdeell.mjlaunch"
+        applicationId "git.artdeell.mjlaunch.afk1"
         minSdkVersion 21
         targetSdkVersion 36
         versionCode getDateSeconds()
